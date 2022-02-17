@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome To The Banana Gang
 
-You can use the [editor on GitHub](https://github.com/FlexibleBanana/Banana.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am the one and only Banana King who ate the legendary banana vegetable.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a ROBLOX Developer who created the game Vibe Hangout and Basic Chart Obby
 
-### Markdown
+### Random Facts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Coding a game is hard as cooking rice
 
 ```markdown
 Syntax highlighted code block
